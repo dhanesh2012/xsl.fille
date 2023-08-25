@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsl-stylesheet type="text/xsl" href="xsl.xml">
+<school>
+<class>
+<stdname>Diensh</stdname>
+<age>18</age>
+<address>garden karachi</address>
+</class>
+
+<class>
+<stdname>Dinesh</stdname>
+<age>18</age>
+<address>garden karachi</address>
+</class>
+
+<class>
+<stdname>Dinesh</stdname>
+<age>18</age>
+<address>garden karachi</address>
+</class>
+
+</school>
